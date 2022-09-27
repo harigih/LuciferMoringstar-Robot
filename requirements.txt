@@ -1,4 +1,4 @@
-https://github.com/PR0FESS0R-99/pyrogram/archive/LuciferMoringstar-Robot.zip
+https://github.com/harigih/LuciferMoringstar-Robot.zip
 tgcrypto==1.2.2
 pymongo[srv]==3.11.4
 motor==2.4.0
